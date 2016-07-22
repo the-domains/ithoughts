@@ -1,0 +1,14 @@
+layout_spectrum: 0.8154287412762642
+typography_spectrum: 0.15031114662997425
+color:
+  brandStrength: 0.11661230004392564
+  lightness: 0.4775813587475568
+  saturation: 0.6116109639406204
+  rhythmicContrast: 0.3295704557094723
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+name: iThoughts
